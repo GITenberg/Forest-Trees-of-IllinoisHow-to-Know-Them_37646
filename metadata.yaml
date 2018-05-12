@@ -1,0 +1,38 @@
+_repo: Forest-Trees-of-IllinoisHow-to-Know-Them_37646
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37646-h/images/bcover.jpg
+creator:
+  authors:
+  - agent_name: Fuller, George D. (George Damon)
+    alias: Fuller, George Damon
+    birthdate: 1869
+    gutenberg_agent_id: '38968'
+    url: http://www.gutenberg.org/2009/agents/38968
+  - agent_name: Miller, Robert B. (Robert Barclay)
+    alias: Miller, R. B. (Robert Barclay)
+    gutenberg_agent_id: '38971'
+    url: http://www.gutenberg.org/2009/agents/38971
+  - agent_name: Mattoon, W. R. (Wilbur Reed)
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '38970'
+    url: http://www.gutenberg.org/2009/agents/38970
+  - agent_name: Nuuttila, E. E.
+    gutenberg_agent_id: '38969'
+    url: http://www.gutenberg.org/2009/agents/38969
+description: ''
+gutenberg_issued: '2011-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Trees -- Illinois'
+title: 'Forest Trees of Illinois: How to Know Them'
+url: http://www.gutenberg.org/ebooks/37646
